@@ -94,9 +94,9 @@ The API allows users to sign up, log in, and authenticate their requests using a
         "username": "user1",
         "email": "user1@example.com",
         "phoneNumber": 1234567890,
-        "age": 25
-      },
-      ...
+        "age": 25,
+         .......
+      }
     ]
   }
   ```
